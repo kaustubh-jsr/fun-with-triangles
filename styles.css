@@ -123,4 +123,12 @@ input{
     padding: 1rem;
 }
 
-/* quiz styles */
+/* hypotenuse css */
+
+#hypo-header{
+    text-decoration: underline;
+}
+
+#hypotenuse{
+    cursor: not-allowed;
+}
